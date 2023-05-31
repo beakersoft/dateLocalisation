@@ -1,0 +1,11 @@
+﻿CREATE TABLE [Savant].[LukeOrders](
+	[OrderId] [int] NOT NULL,
+	[OrderTimeUtc] [datetime] NOT NULL,
+	[OrderTimeOffset] [datetimeoffset](7) NOT NULL,
+	[OrderTimeZone] [varchar](500) NULL,
+ CONSTRAINT [PK_LukeOrders] PRIMARY KEY CLUSTERED 
+(
+	[OrderId] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
