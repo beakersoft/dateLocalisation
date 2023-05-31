@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DateTimeLocalisation</name>
+    </assembly>
+    <members>
+        <member name="T:DateTimeLocalisation.Controllers.DatesController">
+            <summary>
+                Dates for orders
+            </summary>
+        </member>
+        <member name="M:DateTimeLocalisation.Controllers.DatesController.Post(DateTimeLocalisation.Models.CreateNewDateTimeModel)">
+            <summary>
+                Create a new test datetime entry
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DateTimeLocalisation.Controllers.DatesController.GetAll">
+            <summary>
+                Get all orders
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DateTimeLocalisation.Controllers.DatesController.GetById(System.Int32)">
+            <summary>
+                Get an order by id
+            </summary>
+            <param name="orderId"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

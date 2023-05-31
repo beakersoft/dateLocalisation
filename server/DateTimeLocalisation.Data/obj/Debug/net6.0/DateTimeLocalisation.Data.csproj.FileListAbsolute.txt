@@ -1,0 +1,15 @@
+C:\Code\luke\dateLocalisation\server\DateTimeLocalisation.Data\bin\Debug\net6.0\DateTimeLocalisation.Data.deps.json
+C:\Code\luke\dateLocalisation\server\DateTimeLocalisation.Data\bin\Debug\net6.0\DateTimeLocalisation.Data.dll
+C:\Code\luke\dateLocalisation\server\DateTimeLocalisation.Data\bin\Debug\net6.0\DateTimeLocalisation.Data.pdb
+C:\Code\luke\dateLocalisation\server\DateTimeLocalisation.Data\bin\Debug\net6.0\DateTimeLocalisation.Models.dll
+C:\Code\luke\dateLocalisation\server\DateTimeLocalisation.Data\bin\Debug\net6.0\DateTimeLocalisation.Models.pdb
+C:\Code\luke\dateLocalisation\server\DateTimeLocalisation.Data\obj\Debug\net6.0\DateTimeLocalisation.Data.csproj.AssemblyReference.cache
+C:\Code\luke\dateLocalisation\server\DateTimeLocalisation.Data\obj\Debug\net6.0\DateTimeLocalisation.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\luke\dateLocalisation\server\DateTimeLocalisation.Data\obj\Debug\net6.0\DateTimeLocalisation.Data.AssemblyInfoInputs.cache
+C:\Code\luke\dateLocalisation\server\DateTimeLocalisation.Data\obj\Debug\net6.0\DateTimeLocalisation.Data.AssemblyInfo.cs
+C:\Code\luke\dateLocalisation\server\DateTimeLocalisation.Data\obj\Debug\net6.0\DateTimeLocalisation.Data.csproj.CoreCompileInputs.cache
+C:\Code\luke\dateLocalisation\server\DateTimeLocalisation.Data\obj\Debug\net6.0\DateTimeLocalisation.Data.csproj.CopyComplete
+C:\Code\luke\dateLocalisation\server\DateTimeLocalisation.Data\obj\Debug\net6.0\DateTimeLocalisation.Data.dll
+C:\Code\luke\dateLocalisation\server\DateTimeLocalisation.Data\obj\Debug\net6.0\refint\DateTimeLocalisation.Data.dll
+C:\Code\luke\dateLocalisation\server\DateTimeLocalisation.Data\obj\Debug\net6.0\DateTimeLocalisation.Data.pdb
+C:\Code\luke\dateLocalisation\server\DateTimeLocalisation.Data\obj\Debug\net6.0\ref\DateTimeLocalisation.Data.dll

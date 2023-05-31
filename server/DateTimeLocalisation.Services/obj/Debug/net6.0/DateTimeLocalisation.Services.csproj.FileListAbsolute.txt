@@ -1,0 +1,17 @@
+C:\Code\luke\dateLocalisation\server\DateTimeLocalisation.Services\bin\Debug\net6.0\DateTimeLocalisation.Services.deps.json
+C:\Code\luke\dateLocalisation\server\DateTimeLocalisation.Services\bin\Debug\net6.0\DateTimeLocalisation.Services.dll
+C:\Code\luke\dateLocalisation\server\DateTimeLocalisation.Services\bin\Debug\net6.0\DateTimeLocalisation.Services.pdb
+C:\Code\luke\dateLocalisation\server\DateTimeLocalisation.Services\bin\Debug\net6.0\DateTimeLocalisation.Data.dll
+C:\Code\luke\dateLocalisation\server\DateTimeLocalisation.Services\bin\Debug\net6.0\DateTimeLocalisation.Models.dll
+C:\Code\luke\dateLocalisation\server\DateTimeLocalisation.Services\bin\Debug\net6.0\DateTimeLocalisation.Data.pdb
+C:\Code\luke\dateLocalisation\server\DateTimeLocalisation.Services\bin\Debug\net6.0\DateTimeLocalisation.Models.pdb
+C:\Code\luke\dateLocalisation\server\DateTimeLocalisation.Services\obj\Debug\net6.0\DateTimeLocalisation.Services.csproj.AssemblyReference.cache
+C:\Code\luke\dateLocalisation\server\DateTimeLocalisation.Services\obj\Debug\net6.0\DateTimeLocalisation.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\luke\dateLocalisation\server\DateTimeLocalisation.Services\obj\Debug\net6.0\DateTimeLocalisation.Services.AssemblyInfoInputs.cache
+C:\Code\luke\dateLocalisation\server\DateTimeLocalisation.Services\obj\Debug\net6.0\DateTimeLocalisation.Services.AssemblyInfo.cs
+C:\Code\luke\dateLocalisation\server\DateTimeLocalisation.Services\obj\Debug\net6.0\DateTimeLocalisation.Services.csproj.CoreCompileInputs.cache
+C:\Code\luke\dateLocalisation\server\DateTimeLocalisation.Services\obj\Debug\net6.0\DateTimeLocalisation.Services.csproj.CopyComplete
+C:\Code\luke\dateLocalisation\server\DateTimeLocalisation.Services\obj\Debug\net6.0\DateTimeLocalisation.Services.dll
+C:\Code\luke\dateLocalisation\server\DateTimeLocalisation.Services\obj\Debug\net6.0\refint\DateTimeLocalisation.Services.dll
+C:\Code\luke\dateLocalisation\server\DateTimeLocalisation.Services\obj\Debug\net6.0\DateTimeLocalisation.Services.pdb
+C:\Code\luke\dateLocalisation\server\DateTimeLocalisation.Services\obj\Debug\net6.0\ref\DateTimeLocalisation.Services.dll
